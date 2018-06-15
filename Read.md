@@ -1,5 +1,5 @@
 # Teste de Git
 
-testando essa parada loca.
+testando.
 
 Modificando
